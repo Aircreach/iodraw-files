@@ -7,7 +7,7 @@
         <mxCell id="dD69CLrRpHnJxoCBf4zt-1" value="预测" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="254" y="70" width="160" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="dD69CLrRpHnJxoCBf4zt-2" value="+ 收入&lt;br&gt;+ 附加值&lt;br&gt;+ 交付成本&lt;div&gt;+ 利润&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="dD69CLrRpHnJxoCBf4zt-1">
+        <mxCell id="dD69CLrRpHnJxoCBf4zt-2" value="+ 收入&lt;br&gt;+ 附加值&lt;br&gt;+ 交付成本&lt;div&gt;+ 利润&lt;/div&gt;&lt;div&gt;+ 出货量&lt;/div&gt;&lt;div&gt;+ 回款&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="dD69CLrRpHnJxoCBf4zt-1">
           <mxGeometry y="50" width="160" height="140" as="geometry" />
         </mxCell>
       </root>
